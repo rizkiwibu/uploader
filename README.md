@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 
-4 Open a browser and visit http://localhost:3000 untuk mengakses aplikasi. ```
+4 Open a browser and visit http://localhost:3000 to access the application. ```
 
 ## API Endpoints
 
